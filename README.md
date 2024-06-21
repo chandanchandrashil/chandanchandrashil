@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Chandan Chandra Shil</h1>
+<h1 align="center">Hi there 👋, I'm Chandan </h1>
 <img src="https://i.ibb.co/mCNycvr/github-cover.png" alt="github-cover"/>
 
 <h3 align="center">A passionate Frontend developer from Bangladesh</h3>
