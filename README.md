@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/mCNycvr/github-cover.png" alt="github-cover"/>
 <h1 align="center">Hi 👋, I'm Chandan Chandra Shil</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh</h3>
 
