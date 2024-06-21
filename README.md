@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chandanchandrashil22@gmail.com**
 
-- ⚡ Fun fact **I am a good listener. I love to listen when other person talking**
+
 
 
 
